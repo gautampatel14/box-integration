@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<view isDashboard="False" template="box_integration_for_splunk:templates/box_integration_for_splunk_redirect.html" type="html">
+    <label>Redirect</label>
+</view>
